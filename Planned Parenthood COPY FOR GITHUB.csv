@@ -1,0 +1,568 @@
+Name (…Health Center),City,State,Zip,Abortion or Abortion Referrals,HRT
+Birmingham,Birmingham ,AL,35203,N,N
+Anchorage,Anchorage ,AK,99508,Y,V
+Fairbanks ,Fairbanks,AK,99701,Y,V
+Juneau ,Juneau,AK,99801,Y,V
+Flagstaff ,Flagstaff,AZ,86001,N,N
+Glendale ,Glendale,AZ,85304,Y ,V
+Mesa ,Mesa,AZ,85204,N,N
+Central Phoenix ,Phoenix,AZ,85014,N,N
+Desert Sky ,Phoenix,AZ,85035,N,N
+Tempe Regional ,Tempe,AZ,85283,N,Y
+Southern Arizona Regional ,Tuscon,AZ,85712,Y ,V
+Little Rock Aldersgate Road ,Little Rock,AR,72205,N,Y
+Rogers ,Rogers,AR,72756,N,Y
+Alhambra ,Alhambra ,CA,91801,Y,Y
+Anaheim ,Anaheim,CA,92805,Y,N
+Antioch ,Antioch,CA,94509,Y,Y
+Bakersfield ,Bakersfield,CA,93301,Y,Y
+Baldwin Park ,Baldwin Park,CA,91706,Y,Y
+Burbank ,Burbank,CA,91506,Y,N
+Canoga Park ,Canoga Park,CA,91303,Y,N
+Carson ,Carson,CA,90746,Y,N
+Chico ,Chico,CA,95973,Y,Y
+Chula Vista ,Chula Vista,CA,91911,Y,V
+Clearlake ,Clearlake,CA,95422,Y,Y
+Coachella ,Coachella,CA,92236,Y,V
+Compton,Compton,CA,90221,Y,N
+Virtual Health Center at PPNorCal,,CA,,Y,V
+Concord,Concord,CA,95420,Y,N
+Corona,Corona,CA,92881,Y,V
+Coasta Mesa,Costa Mesa,CA ,92626,Y,N
+El Cajon,El Cajon,CA,92021,Y,V
+Imperial Valley Homan,El Centro,CA,92243,N,V
+El Cerrito,El Cerrito,CA,94530,Y,N
+El Monte,El Monte,CA,91732,Y,N
+Escondido,Escondido,CA,92025,Y,V
+Eureka,Eureka,CA,95503,Y,N
+Fairfield,Fairfield,CA,94533,Y,N
+Family First,Fresno ,CA,93710,Y,Y
+Fulton Street,Fresno ,CA,93728,Y,Y
+Gilroy,Gilroy,CA,95020,Y,Y
+Glendora,Glendora ,CA,91740,Y,Y
+Hayward,Hayward,CA,94541,Y,Y
+Hemet,Helmet,CA,92544,Y,V
+Huntington Park,Huntington Park,CA,90255,Y,N
+Inglewood,Inglewood,CA,90302,Y,N
+Koreatown,Koreatown,CA,90006,Y,N
+Lakewood,Lakewood,CA,90713,Y,N
+South Bay,Lawndale,CA,90260,Y,N
+Long Beach Central,Long Beach,CA,90806,Y,N
+Long Beach ,Long Beach,CA,90806,Y,N
+Bixby,Los Angeles,CA,90033,Y,N
+Hollywood ,Los Angeles,CA,90029,Y,N
+S. Mark Taper Foundation Center For Medical Training,Los Angeles,CA,90007,Y,N
+"Planned Parenthood Basics, Baldwin Hills/Crenshaw",Los Angeles,CA,90016,N,N
+Highland Park ,Los Angeles,CA,90042,Y,Y
+East Los Angeles,Los Angeles,CA,90022,Y,N
+Dorothy Hecht,Los Angeles,CA,90003,Y,N
+Madera,Madera,CA,93637,Y,Y
+Manteca,Manteca,CA,95336,Y,Y
+Merced,Merced,CA,95348,Y,Y
+Mission Viejo,Mission Viejo ,CA,92691,Y,N
+Modesto,Modesto,CA,95350,Y,Y
+Moreno Valley,Moreno Valley,CA,92553,Y,V
+Mountain View,Mountain View,CA ,94040,Y,Y
+Murrieta,Murrieta,CA,92562,Y,V
+Napa ,Napa,CA,94558,Y,N
+North Highlands,North Highlands,CA,95660,Y,Y
+East Oakland/Coliseum,Oakland,CA,94621,Y,Y
+Orange,Orange,CA,92866,Y,N
+Oxnard,Oxnard,CA,93033,N,Y
+Antelope Valley,Palmdale,CA,93550,Y,N
+Pasadena,Pasadena,CA,91104,Y,Y
+California Virtual Health Center of Pasadena and San Gabriel Valley,,CA,,Y,N
+Pomona,Pomona,CA,91767,Y,N
+Rancho Mirage,Rancho Mirage,CA,92270,Y,V
+Redding,Redding,CA,96002,Y,N
+Redwood City,Redwood City,CA,94061,Y,Y
+Hilltop-Richmond,Richmond,Ca,94806,Y,N
+Riverside Flaster Family Center,Riverside,CA,92506,Y,V
+Roseville,Roseville,CA,95661,Y,N
+B Street,Sacramento ,CA,95816,Y,Y
+Fruitridge,Sacramento ,CA,95820,Y,Y
+Capitol Plaza,Sacramento ,CA,95814,Y,Y
+Salinas,Salinas,CA,83901,Y,Y
+San Bernardino,San Bernardino,CA,92408,Y,N
+First Avenue Family Planning Michelle Wagner,San Diego,CA,92101,Y,V
+Euclid Avenue Francis Torbert,San Diego,CA,92114,Y,V
+Mission Bay Mimi Brien,San Diego,CA,92109,Y,V
+First Avenue Specialty Services Michelle Wagner Center,San Diego,CA,92101,Y,V
+Kearny Mesa Joan and Irwin Jacobs,San Diego,CA,92111,Y,V
+College Avenue Sarah Weddington,San Diego,CA,92115,Y,V
+City Heights ,San Diego,CA,92105,Y,V
+Mira Mesa Corton/Ebil Family Center,San Diego,CA,92126,Y,V
+San Francisco,San Francisco,CA,94109,Y,N
+Blossom Hill,San Jose,CA,95123,Y,Y
+Mar Monte Community Clinic,San Jose,CA,95121,Y,Y
+San Jose Central,San Jose,CA,95126,Y,Y
+Eastside ,San Jose,CA,95127,Y,Y
+San Luis Obispo,San Luis Obispo,CA,93401,Y,Y
+San Mateo,San Mateo,CA,94402,Y,Y
+San Rafael,San Rafel ,CA,94901,Y,N
+San Ramon,San Ramon,CA,94583,Y,N
+Santa Ana,Santa Ana,CA,92705,Y,N
+Santa Barbara,Santa Barbara,CA,93101,Y,Y
+Westside ,Santa Cruz,CA,95060,Y,Y
+Santa Maria,Santa Maria ,CA,93454,Y,Y
+Santa Monica,Santa Monica,CA,90401,Y,Y
+Santa Rosa,Santa Rosa,CA,95405,Y,N
+Seaside,Seaside,CA,93955,Y,Y
+South San Francisco,South San Francisco ,CA,94080,Y,Y
+North Stockton,Stockton,CA,95207,Y,Y
+Eastland Plaza ,Stockton,CA,95205,Y,Y
+Thousand Oaks,Thousand Oaks,CA,91320,Y,Y
+Tracy Health Center,Tracy,CA,95376,Y,Y
+Ukiah,Ukiah,CA,95482,Y,N
+Upland,Upland ,CA,91786,Y,N
+Vallejo,Vallejo,CA,94590,Y,N
+Van Nuys,Van Nuys,CA,91405,Y,N
+Ventura,Ventura,CA,93003,Y,Y
+Victorville,Victorville,CA,92392,Y,N
+Visalia,Visalia,CA,93291,N,Y
+Vista Isabella,Vista,CA,92081,Y,V
+Walnut Creek,Walnut Creek,CA,94596,Y,Y
+Watsonville,Watsonville,CA,95076,Y,Y
+West Hollywood,West Hollywood,CA,90069,Y,N
+Westminster,Westminster,CA,92683,Y,N
+Judith and Steaven Jones,Whittier ,CA,90602,Y,N
+Woodland,Woodland,CA,95695,Y,Y
+Yuba City,Yuba City ,CA,95991,Y,Y
+Arvada,Arvada,CO,80003,Y,N
+Aurora,Aurora,CO,80012,Y,N
+Boulder,Boulder,CO,80302,Y,N
+Colorado Springs Westside,Colorado Springs,CO,80907,Y,N
+Cortez,Cortez,CO,81321,Y,N
+Park Hill,Denver,CO,80207,Y,Y
+Colorado Virtual Care Center of Colorado,,CO,,Y,V
+Denver Central,Denver,CO,80218,N,Y
+Durango,Durango,CO,81303,Y,N
+Fort Collins,Fort Collins,CO,80521,Y,N
+Glenwood Springs,Glenwood Springs,CO,81601,Y,N
+Greely,Greely,CO,80634,Y,N
+Littleton,Littleton,CO,80129,Y,N
+Salida,Salida,CO,81201,Y,N
+Bridgeport,Bridgeport,CT,6606,Y,N
+Danbury,Danbury,CT,6810,Y,N
+Enfield,Enfield,CT,6082,Y,N
+Hartford,Hartford,CT,6112,Y,N
+Manchester ,Manchester,CT,6040,Y,N
+Meriden ,Meriden,CT,6451,Y,N
+New Haven,New Haven,CT ,6511,Y,N
+New London,New London,CT,6320,Y,N
+Norwich,Norwich,CT,6360,Y,N
+Stamford,Stamford,CT,6902,Y,N
+Torrington,Torrington,CT,6790,Y,N
+Waterbury,Waterbury,CT,6708,Y,N
+West Hartford,West Hartford,CT,6110,Y,N
+Willimantic,Willimantic,CT,6228,Y,N
+Dover,Dover,DE,19901,Y,N
+Newark,Newark,DE,19711,Y,N
+Seaford ,Seaford,DE,19973,Y,Y
+Wilmington,Wilmington,DE,19801,Y,N
+Carol Whitehill Moses,Washington,DC,20002,Y,Y
+Fort Meyers,Fort Meyers,FL,33966,Y,N
+Gainesville,Gainesville,FL,32601,Y,Y
+Jacksonville,Jacksonville,FL,32217,Y,Y
+Kissimmee ,Kissimmee,FL,34741,Y,N
+Lakeland,Lakeland,FL,33803,N,N
+Kendall,Miami,FL,33186,Y,Y
+Golden Glades-Miami,Miami,FL,33169,Y,Y
+Naples,Naples,FL,34103,N,N
+East Orlando,Orlando,FL,32817,Y,N
+Pembroke Pines,Pembroke Pines,FL,33024,Y,Y
+Treasure Coast,Port Saint Lucie,FL,34952,Y,Y
+St. Petersburg,Saint Petersburg,FL,33701,Y,N
+Virtual Health Center of Southwest and Central Florida,,FL,,N,N
+Sarasota Health Center,Sarasota,FL,34236,Y,Y
+Tallahassee Health Center,Tallahassee ,FL,32304,Y,Y
+Tampa,Tampa,FL,33617,N,N
+North Tampa,Tampa,FL,33613,Y,N
+Florida Mango,West Palm Beach,FL,33409,Y,Y
+Virtual Health Center of South and North Florida,,FL,,N,N
+East Atlanta,Atlanta,GA,30316,N,N
+Gwinnett,Lawrenceville,GA,30046,N,N
+Cobb,Marietta ,GA,30062,N,N
+Savannah,Savannah ,GA,31405,N,N
+Honolulu,Honolulu,HI,96813,Y,Y
+Kahului,Kahului,HI,96732,Y,Y
+Meridian,Meridian,ID,83642,N,Y
+Twin Falls,Twin Falls,ID ,83301,N,Y
+Aurora,Aurora,IL,60504,Y,Y
+Bloomington,Bloomington,IL,61704,Y,Y
+Champaign,Champaign,IL,61820,Y,Y
+Near North: Elizabeth Cohn Morris,Chicago,IL,60610,Y,Y
+Roseland,Chicago,IL,60628,Y,Y
+Austin,Chicago,IL,60651,Y,Y
+Rogers Park,Chicago,IL,60660,Y,Y
+Englewood,Chicago,IL,60636,Y,Y
+Wicker Park,Chicago,IL,60642,Y,Y
+Virtual Center of PPIL,,IL,,Y,N
+Loop ,Chicago,IL,60602,Y,Y
+Decatur,Decatur,IL,62526,Y,Y
+Virtual Center of Fairview Heights,,IL,,Y,N
+Fairview Heights,Fairview Heights,IL,66208,Y,Y
+Flossmoor,Flossmoor,IL,60422,Y,Y
+Orland Park,Orland Park,IL,60462,Y,Y
+Ottawa,Ottawa,IL,61350,Y,Y
+Peoria,Peoria,IL,61604,N,N
+Springfield,Springfield,IL,62702,Y,Y
+Waukegan,Waukegan,IL,60085,Y,Y
+Bloomington,Bloomington,IN,47403,N,Y
+Hammond,Hammond,IN,46324,N,Y
+Southside,Indianapolis,IN,46227,N,Y
+Mishawaka,Mishawaka,IN,46545,N,Y
+Evansville,Evansville,IN,47711,N,Y
+Midtown,Indianapolis,IN,46208,N,Y
+Lafayette,Lafayette,IN,47905,N,Y
+New Albany,New Albany,IN,47150,N,Y
+Fort Wayne,Fort Wayne,IN,46805,N,Y
+Georgetown,Indianapolis,IN,46268,N,Y
+Merrillville,Merrillville,IN,46410,N,Y
+Ames,Aimes,IA,50014,Y,N
+Rosenfield,Des Moines,IA,50315,Y,N
+Iowa Telehealth,,IA,,N,V
+Sioux City,Sioux City,IA,51106,Y,N
+Susan Knapp,Des Moines,IA,50311,N,N
+Urbandale,Urbandale,IA,50322,N,N
+Wyandotte,Kansas City,KS,66104,Y,N
+Comprehensive,Overland Park,KS,66211,Y,N
+Wichita,Wichita,KS,67214,Y,Y
+Lexington,Lexington,KY,40503,N,Y
+Louisville,Louisville,KY,40203,N,Y
+Baton Rouge,Baton Rouge,LA,70806,N,N
+Gulf Coast Virtual Health Center,,LA,,N,Y
+New Orleans,New Orleans,LA,70125,N,Y
+Biddeford,Biddeford,ME,4005,N,Y
+Portland,Portland,ME,4101,Y,Y
+Sanford,Sanford,ME,4073,Y,Y
+Topsham,Topsham,ME,4086,Y,Y
+Annapolis,Annapolis,MD,21401,Y,V
+Easton,Easton,MD,21601,Y,V
+Owings Mills,Pikesville,MD,21208,Y,V
+Towson,Towson,MD,21286,Y,V
+Maryland Virtual Health Center,,MD,,Y,V
+Frederick,Frederick,MD,21702,Y,V
+Planned Parenthood Prince George's County,Suitland,MD,20746,Y,V
+Waldorf,Waldorf,MD ,20602,Y,Y
+Baltimore City,Baltimore,MD,21201,Y,V
+Gaithersburg,Gaithersburg ,MD,20886,Y,V
+Greater Boston,Boston,MA,2215,Y,N
+Metro West,Marlborough,MA,1752,N,Y
+Western Massachusetts,Springfield,MA,1107,Y,N
+Central Massachusetts,Worcester,MA,1609,Y,Y
+Ann Arbor West,Ann Arbor,MI,48103,Y,Y
+Michigan Virtual Health Center,,MI,,Y,V
+Detroit ,Detroit,MI,48201,Y,Y
+Ferndale,Ferndale,MI,48220,Y,Y
+Flint,Flint,MI,48532,Y,Y
+Irwin/Martin,Grand Rapids,MI,49503,Y,Y
+Power Family ,Ann Arbor,MI,48104,Y,N
+Jackson,Jackson,MI,49202,Y,N
+Kalamazoo,Kalamazoo,MI,49006,Y,Y
+Lansing,Lansing,MI,48912,Y,Y
+Livonia,Livonia,MI,48154,Y,Y
+Marquette,Marquette,MI,49855,Y,Y
+Petoskey,Petoskey,MI,49770,Y,Y
+Walker,Traverse City,Mi,49686,Y,Y
+Warren,Warren,MI,48093,Y,Y
+Alexandria,Alexandria,MN,56308,N,N
+Apple Valley,Apple Valley,MN,55124,N,N
+Bemidji,Bemidji,MN,56601,N,N
+Brooklyn Park,Brooklyn Park,MN,55443,Y,N
+Duluth,Duluth,MN,55811,N,N
+Eden Prarie,Eden Prarie,MN,55344,N,N
+Mankato,Mankato,MN,56001,N,N
+Minneapolis,Minneapolis,MN,55408,Y,N
+Moorhead,Moorhead,MN,56560,N,N
+Richfield ,Richfield,MN,55423,N,N
+Rochester,Rochester,MN,55901,Y,N
+St. Cloud,St Cloud,MN,56304,N,N
+Rice Street Viking Drive West,St Paul,MN,55117,N,N
+Minesota Telehealth,,MN,,Y,V
+St. Paul Vandalia,St Paul,MN,55114,Y,N
+Willmar,Willmar,MN,56201,N,N
+Woodbury,Woodbury,MN,55125,N,N
+Hattiesburg ,Hattiesburg,MS,39401,N,N
+North County,Florissant,MO,63033,N,Y
+Northland ,Gladstone,MO,64119,N,Y
+Independence,Independence,MO,64050,N,Y
+Joplin,Joplin,MO,64801,N,Y
+Patty Brous,Kansas City,MO,64110,N,N
+West County,Manchester,MO,63088,N,Y
+Rolla ,Rolla,MO,65401,N,N
+Central West End,St Louis,MO,63108,N,Y
+South Grand,St Louis,MO,63118,N,Y
+St. Peters,Saint Peters  ,MO,63376,N,Y
+Springfield,Springfield,MO,65807,N,Y
+Columbia,Columbia,MO,65203,N,Y
+Planned Parenthood West,Billings,MT,59102,Y,Y
+Montana Virtual Health Center,,MT,,Y,Y
+Planned Parenthood Great Falls,Great Falls,MT,59405,Y,Y
+Planned Parenthood Helena,Helena,MT,59601,Y,Y
+Planned Parenthood Missoula,Missoula,MT,59802,Y,N
+Lincoln,Lincoln,NE,68516,Y,N
+Omaha,Omaha,NE,68134,Y,N
+Nebraska Telehealth,,NE,,N,Y
+Las Vegas West Charleston,Las Vegas,NV,89102,Y,N
+Nevada Virtual Care Center,,NV,,Y,Y
+Las Vegas East Flamingo,Las Vegas,NV,89121,Y,N
+Reno Health Center,Reno,NV,89511,Y,Y
+Derry,Derry,NH,3038,N,Y
+Exeter,Exeter,NH,3833,N,Y
+Keene,Keene,NH,3431,Y,Y
+Manchester ,Manchester,NH,3104,Y,Y
+Bellmawr,Bellmawr,NJ,8031,N,N
+Camden ,Camden,NJ,8103,Y,N
+Delran,Delran,NJ,8075,Y,N
+East Orange,East Orange,NJ,7018,Y,Y
+Elizabeth,Elizabeth,NJ,7201,Y,N
+Englewood,Englewood,NJ,7631,Y,N
+Flemington,Flemington,NJ,8822,Y,N
+Hackensack,Hackensack,NJ,7601,Y,N
+Hamilton ,Hamilton Square,NJ,8690,Y,N
+Montclair,Montclair,NJ,7042,Y,Y
+Morristown,Morristown,NJ,7960,Y,N
+Ironbound,Newark,NJ,7105,Y,Y
+PPMNJ Virtual Health Center,Newark,NJ,7102,N,V
+Mulberry (formerly known as Chubb),Newark,NJ,7102,Y,Y
+Newton,Newton,NJ,7860,Y,N
+Paterson,Paterson,NJ,7514,Y,Y
+Perth Amboy,Perth Amboy,NJ,8861,Y,N
+Shrewsbury,Shrewsbury,NJ,7702,Y,N
+Franklin Township,Somerset,NJ,8873,Y,N
+Trenton,Trenton,NJ,8608,Y,N
+Washington,Washington,NJ,7882,Y,N
+San Mateo,Albuquerque,NM,87108,Y,N
+New Mexico Virtual Care Center,,NM,,Y,Y
+Farmington,Farmington,NM,87401,N,N
+Las Cruces,Las Cruces,NM,88011,Y,N
+Santa Fe,Santa Fe,NM,87505,Y,N
+Albany,Albany,NY,12206,Y,Y
+Amsterdam ,Amsterdam,NY,12010,Y,Y
+Batavia,Batvia,NY,14020,Y,N
+Brighton-Henrietta,Brighton,NY,14618,Y,N
+The Bronx,Bronx,NY,10451,Y,Y
+Joan Malin Brooklyn,Brooklyn ,NY,11201,Y,Y
+Buffalo,Buffalo,NY,14214,Y,N
+Canandaigua,Canandaigua,NY,14424,Y,Y
+Canton,Canton,NY,13617,Y,Y
+Clifton Park,Clifton Park,NY,12065,Y,Y
+Cobleskill,Cobleskill ,NY,12043,Y,Y
+Corning ,Corning,NY,14830,Y,Y
+Elmira,Elmira,NY,14901,Y,Y
+Goshen,Goshen,NY,10924,Y,Y
+Hempstead,Hempstead,NY,11550,Y,Y
+Hudson,Hudson,NY,12534,Y,Y
+Huntington  ,Huntington  ,NY,11743,Y,Y
+Ithaca,Ithica,NY,14850,Y,Y
+Johnstown ,Johnstown,NY,12095,Y,Y
+Kingston,Kingston,NY,12401,Y,Y
+Lowville,Lowville,NY,13367,Y,Y
+Malone,Malone ,NY,12953,Y,N
+Massapequa,Massapequa,NY,11758,Y,Y
+Mount Vernon,Mount Vernon,NY,10550,Y,Y
+Newburgh,Newburgh,NY,12550,Y,Y
+New Rochelle,New Rochelle ,NY,10801,Y,Y
+Manhattan,New York,NY,10012,Y,Y
+Virtual Health Center of PPGNY,New York,NY,,Y,Y
+Niagra Falls Office,Niagra Falls,NY,14301,Y,N
+North Tonawanda,North Tonawanda,NY,14120,Y,N
+Ogdesnburg,Ogdensburg,NY,13669,Y,N
+Patchogue,Patchogue,NY,11772,Y,Y
+Plattsburgh,Plattsburgh ,NY,12901,Y,Y
+Poughkeepsie,Poughkeepsie,NY,12601,Y,Y
+Diane L. Max,Queens,NY,11101,Y,Y
+Queensbury,Queensbury,NY,12804,Y,Y
+Riverhead,Riverhead,NY,11901,Y,Y
+Rochester,Rochester,NY,14605,Y,N
+Rome,Rome,NY,13440,Y,Y
+Saranac Lake,Saranac Lake,NY,12983,Y,Y
+Saratoga Springs,Saratoga Springs,NY,12866,Y,Y
+Schenectady,Schenectady,NY,12307,Y,Y
+Smithtown,Smithtown,NY,11787,Y,Y
+Spring Valley,Spring Valley,NY,10977,Y,Y
+Staten Island,Staten Island,NY,10301,Y,N
+Syracruse,Syracruse,NY,13210,Y,Y
+Troy,Troy,NY,12180,Y,Y
+Utica,Utica,NY,13502,Y,Y
+Watertown Center,Watertown,NY,13601,Y,Y
+West Islip,West Islip,NY,11795,Y,Y
+West Seneca,West Seneca,NY,14224,Y,N
+White Plains,White Planes,NY,10607,Y,Y
+Yonkers,Yonkers,NY,10701,Y,Y
+Durham,Durham,NC,27704,N,Y
+Fayetteville,Fayetteville,NC,28303,Y,Y
+Greensboro,Greensboro,NC,27408,N,Y
+Raleigh,Raleigh,NC,27603,N,Y
+Wilmington,Wilmington,NC,28401,Y,Y
+Winston-Salem,Winston-Salem,NC,27103,Y,N
+Asheville,Asheville,NC,28801,Y,Y
+Chapel Hill,Chapel Hill,NC,27514,Y,Y
+Charlotte,Charlotte,NC,28204,Y,Y
+Akron,Akron,OH,44302,N,Y
+Ohio Virtual Health Center of Greater Ohio,,OH,,N,Y
+Athens,Athens,OH,45701,N,Y
+Bedford Heights Surgery Center,Bedford Heights,OH,44146,Y,N
+Canton ,Canton,OH,44709,N,Y
+Cincinnati Surgical Center,Cincinnati,OH,45219,Y,N
+Mt. Auburn,Cincinnati,OH,45219,N,Y
+Old Brooklyn,Cleveland,OH,44134,N,Y
+Cleveland,Cleveland,OH,44103,N,N
+Franklinton,Columbus,OH,43222,N,Y
+East Columbus Surgical Center,Columbus,OH,43213,Y,N
+North Columbus,Columbus,OH,43201,N,Y
+Dayton,Dayton,OH,45402,N,Y
+Hamilton ,Hamilton ,OH,45011,N,Y
+Kent Health,Kent,OH,44240,N,Y
+Lorain,Lorain,OH,44052,N,N
+Mansfield,Mansfield,OH,44906,N,Y
+Rocky River,Rocky River,OH,44116,N,N
+Springfield,Springfield,OH,45504,N,Y
+Toledo,Toledo,OH,43604,N,N
+Warren ,Warren,OH,44481,N,N
+Youngstown,Youngstown,OH,44507,N,N
+South Boulevard,Edmond,OH,73013,N,Y
+67th Street,Lawton,OK,73505,N,N
+Central Oklahoma City,Oklahoma City,OK,73103,N,Y
+Peoria,Tulsa,OK,74120,N,Y
+Beaverton,Beaverton ,OR,97005,Y,Y
+Bend,Bend,OR,97703,Y,Y
+Eugene-Springfield,Eugene,OR,97403,Y,Y
+PPSO Telehealth Services,Eugene,OR,94703,Y,N
+West Eugene,Eugene,OR,97402,Y,N
+Grants Pass,Grants Pass,OR,97526,Y,Y
+Medford ,Medford,OR,97501,Y,N
+Milwaukie-Oak Grove,Milawukie,OR,97267,Y,Y
+Ontario,Ontario,OR,97914,Y,N
+NE Portland,Portland,OR,97212,Y,Y
+Hillman East,Portland,OR,97236,Y,Y
+Salem,Salem,OR,97305,Y,Y
+Allentown,Allentown,PA,18101,Y,Y
+Bensalem,Bensalem,PA,19020,Y,Y
+Bridgeville,Bridgeville,PA,15017,N,Y
+Coatesville,Coatesville,PA,19320,N,Y
+Greensburg,Greensburg,PA,15601,N,Y
+Harrisburg,Harrisburg,PA,17102,Y,Y
+Virtual Health Center for PP of Western Pennsylvania,,PA,,N,V
+Johnstown ,Johnstown,PA,15901,N,Y
+Dr Daniel D. Wert ,Lancaster,PA,17603,Y,N
+Media ,Media,PA,19063,N,N
+Moon Township,Moon Township,PA,15108,N,Y
+Norristown Abortion Center,Noristown,PA,19401,Y,N
+Norristown  ,Norristown,PA,19401,N,N
+Locus Street Surgical Center,Philadelphia,PA,19107,Y,N
+Castor Ave,Philadelphia,PA,19152,N,Y
+Far Northeast Surgical Center,Philadelphia,PA,19154,Y,N
+The Elizabeth Blackwell Health Center,Philadelphia,PA,19107,N,Y
+Pittsburgh Family Planning,Pittsburgh,PA,15222,N,Y
+Pittsburgh Abortion Services,Pittsburgh,PA,15222,Y,N
+Pottstown,Pottstown,PA,19464,N,Y
+Susie and John Stanley,Reading,PA,19604,Y,Y
+Somerset,Somerset,PA,15501,N,V
+Upper Darby,Upper Darby,PA,19082,N,Y
+Warminster,Warminster,PA,18974,Y,V
+Virtual Health Center for PP Keystone,,PA,,Y,Y
+West Chester,West Chester,PA,19382,Y,N
+Wilkes-Barre Medical Center,Wilkes-Barre,PA,18701,Y,Y
+York Medical Center,York,PA,17401,Y,Y
+Providence Health Center,Providence,RI,2903,Y,N
+Charleston,Charleston,SC,29407,N,Y
+Columbia,Columbia,SC,29204,N,N
+Sioux Falls,Sioux Falls,SD,57106,N,N
+South Dakota Telehealth,,SD,,N,Y
+Knoxville Mobile Health Unit,Knoxville,TN,37914,N,Y
+Memphis,Memphis,TN,38112,N,Y
+Memphis Health Center near Summer and I240,Memphis,TN,38122,N,V
+Nashville,Nashville,TN,37203,N,V
+Addison,Addison,TX,75001,N,Y
+Arlington,Arlington,TX,76015,N,Y
+North Austin,Austin,TX,78758,N,Y
+South Austin,Austin,TX,78704,N,Y
+Downtown Austin,Austin,TX,78702,N,Y
+Central Austin,Austin,TX,78705,N,Y
+Bedford  ,Bedford  ,TX,76021,N,Y
+Planned Parenthood Brownsville,Brownsville,TX,78526,N,Y
+Cedar Hill,Cedar Hill,TX,75104,N,Y
+North Dallas Shelburne,Dallas,TX,75231,N,Y
+Greater Texas Virtual,,TX,,N,N
+Denton,Denton,TX,76205,N,Y
+El Paso,El Paso,TX,79902,N,Y
+Southwest Fort Worth,Fort Worth,TX,76132,N,N
+Southwest Fort Worth 2,Fort Worth,TX,76119,N,Y
+Planned Parenthood Harlingen,Harlingen,TX,78550,N,Y
+Logan Health Center,Logan,UT,84321,Y,N
+Utah Valley Health Center,Orem,UT,84057,N,N
+St. George,St George,UT,84770,N,N
+Salt Lake,Salt Lake City,UT,84102,Y,N
+Metro Health,Salt Lake City,UT,84102,Y,N
+South Jordan ,South Jordan,UT,84095,N,N
+Ogden ,Washington Terrace,UT,84405,N,N
+West Valley,West Valley City,UT,84119,N,N
+Barre ,Barre ,VT,5641,N,Y
+Brattleboro,Battleboro,VT,5301,N,Y
+Burlington,Burlington,VT,5401,Y,Y
+Rutland ,Rutlant,VT,5701,Y,Y
+St Johnsbury Health Center,Saint Johnsbury,VT,5819,Y,Y
+White River Junction,White River Junctino,VT,5001,Y,Y
+Williston ,Williston,VT,5495,N,Y
+Charlottesville,Charlottesville,VA,22901,Y,Y
+Hampton,Hampton,VA,23666,Y,Y
+Hamilton ,Richmond,VA,23221,Y,Y
+East End,Richmond,VA,23223,Y,Y
+Roanoke,Roanoke,VA,24017,Y,N
+Virginia Beach,Virginia Beach,VA,23462,Y,Y
+Centralia,Centralia,WA,98531,Y,Y
+Ellensburg,Ellensburg,WA,98926,Y,N
+Everett,Everett ,WA,98201,Y,Y
+Federal Way,Federal Way,WA,98003,Y,Y
+Friday Harbor (San Juan Island),Friday Harbor,WA,98250,N,N
+Kennewick,Kennewick,WA,99336,Y,N
+Lynnwood,Lynnwood,WA,98036,Y,Y
+Marysville,Marysville,WA,98271,Y,Y
+Moses Lake,Moses Lake,WA,98837,Y,N
+Mount Vernon ,Mount Vernon,WA,98274,Y,N
+Olympia,Olympia,WA,98501,Y,Y
+Pasco,Pasco ,WA,99301,Y,N
+Port Angeles,Port Angeles,WA,98362,Y,Y
+Pullman,Pullman,WA,99163,Y,N
+Puyallup,Puyallup,WA,98373,Y,Y
+Central District,Seattle,WA,98122,Y,Y
+University District,Seattle,WA,98105,N,Y
+Northgate,Seattle,WA,98133,Y,Y
+White Center,Seattle,WA,98106,Y,Y
+Spokane,Spokane,WA,99207,Y,N
+Spokane Valley,Spokane Valley,WA,99206,Y,N
+Sunnyside,Sunnyside,WA,98944,Y,N
+Tacoma ,Tacoma,WA,98405,Y,Y
+Vancouver ,Vancouver,WA,98684,Y,N
+Walla Walla,Walla Walla,WA,99362,Y,N
+Wenatchee,Wenatchee,WA,98801,Y,N
+Yakima,Yakima,WA,98902,Y,N
+Eastside-Bellevue,Bellevue,WA,98007,Y,Y
+Bellingham,Bellingham,WA,98225,Y,N
+Bremerton,Bremerton,WA,98310,Y,Y
+Vienna,Vienna,WV,26105,N,Y
+Appleton,Appleton,WI,54911,N,Y
+Delavan,Delavan,WI,53115,N,Y
+Eau Claire,Eau Claire,WI,54701,N,Y
+Green Bay,Green Bay,WI,54304,N,Y
+Kenosha,Kenosha,WI,53142,N,Y
+La Crosse,La Crossse,WI,54603,N,Y
+Madison East,Madison,WI,53704,Y,N
+Madison South,Madison,WI,53713,N,Y
+Manitowoc,Manitowoc,WI,54220,N,Y
+Milwaukee-Mitchell Street ,Milwaukee,WI,53204,N,V
+Milwaukee-Northwest,Milwaukee,WI,53216,N,Y
+Milwaukee-Water Street,Milwaukee,WI,53204,Y,N
+Milwaukee-Capitol Drive,Milwaukee,WI,53212,N,Y
+Milwaukee-Wisconsin,Milwaukee,WI,53233,N,Y
+Oshkosh,Oshkosh,WI,54902,N,N
+Portage,Portage,WI,53901,N,Y
+Racine,Racine,WI,53403,N,Y
+Sheboygan,Sheboygan,WI,53081,N,Y
+Sparta Telehealth,Sparta,WI,54656,N,N
+Waukesha,Waukesha,WI,53186,N,N
+Milwaukee-Lincoln Plaza,West Allis,WI,53227,N,Y
+West Bend,West Bend,WI,53090,N,Y
+Wisconsin Rapids,Wisconsin Rapids,WI,54494,N,Y
